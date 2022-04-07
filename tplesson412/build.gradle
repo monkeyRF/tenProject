@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.tplesson41"
+        applicationId "com.example.tplesson412"
         minSdk 21
         targetSdk 32
         versionCode 1
